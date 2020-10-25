@@ -1,3 +1,3 @@
 # Machine_Learning_Projects
 
-Assignments completed as part of various Coursera online courses.
+Assignments completed as part of various Coursera online courses+ other independent projects
